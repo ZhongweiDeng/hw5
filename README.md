@@ -8,4 +8,4 @@ Motion and Music Miniproject Ideas
 
 2.Mouse click on the canvas to switch between day and night, with different background music.
 
-3.When you click on the canvas, blow up the fireworks with sound.
+3.When you press different keys, blow up fireworks with sound and different colors.
